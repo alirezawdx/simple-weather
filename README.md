@@ -3,12 +3,9 @@
 ## requirements
 
 Vite requires Node.js version 18+. 20+. However, some templates require a higher
-Node.js version to work
-[link](https://vitejs.dev/guide/#scaffolding-your-first-vite-project)
+Node.js version to work [link to install nodejs](https://nodejs.org/en)
 
 Install recommended extensions showed as pop up in vscode!
-
--   nodejs [link](https://nodejs.org/en)
 
 ## how to run project:
 
