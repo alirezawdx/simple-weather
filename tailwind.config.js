@@ -8,6 +8,7 @@ export default {
             secondary: "#F5B747",
             "custom-brown": "#2B261D",
             "custom-dark": "#403B45",
+            white: "#FFFFFF",
         },
         extend: {},
     },
