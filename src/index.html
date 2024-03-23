@@ -13,7 +13,31 @@
             rel="stylesheet"
         />
     </head>
-    <body class="h-screen bg-primary">
+    <body class="h-screen bg-primary p-8">
+        <!-- topbar: mobile -->
+        <div
+            class="flex justify-between items-center text-white lg:hidden font-sans"
+        >
+            <!-- city nav -->
+            <button class="flex justify-between items-center">
+                <img
+                    src="./img/icons/pin.svg"
+                    type="image/svg+xml"
+                    class="w-[18px] me-4"
+                ></object>
+                <h3 class="text-xl font-medium font-sans me-4">New York</h3>
+                <img
+                    src="./img/icons/arrow-down.svg"
+                    type="image/svg+xml"
+                    class="w-[14px]"
+                ></object>
+            </button>
+            <!-- end city nav -->
+            <!-- user profile photo -->
+            <img src="img/user-profile.jpeg" alt="alirezawdx@gmail.com profile photo" class="w-8 rounded-full">
+            <!-- end user profile photo -->
+        </div>
+        <!-- end topbar: mobile -->
         <script type="module" src="/js/main.js"></script>
     </body>
 </html>
