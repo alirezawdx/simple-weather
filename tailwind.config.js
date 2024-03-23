@@ -11,6 +11,9 @@ export default {
             white: "#FFFFFF",
         },
         extend: {},
+        fontFamily: {
+            sans: ["Inter", "sans-serif"],
+        },
     },
     plugins: [],
 };
