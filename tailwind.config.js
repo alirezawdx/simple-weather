@@ -9,6 +9,7 @@ export default {
             "custom-brown": "#2B261D",
             "custom-dark": "#403B45",
             white: "#FFFFFF",
+            transparent: "rgba(0, 0, 0, 0)",
         },
         extend: {},
         fontFamily: {
