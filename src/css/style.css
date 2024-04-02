@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.webkit-appearance-none {
+    -webkit-appearance: none;
+}
